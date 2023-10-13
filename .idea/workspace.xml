@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ff0433c-709d-4354-8ff3-a6d5c111f965" name="Changes" comment="_02 - 컴포넌트 나누고 적용하기">
-      <change afterPath="$PROJECT_DIR$/src/assets/sub.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Hello.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Welcome.js" afterDir="false" />
-    </list>
+    <list default="true" id="5ff0433c-709d-4354-8ff3-a6d5c111f965" name="Changes" comment="_03 - useState와 onClick 이벤트 사용하기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +79,7 @@
       <workItem from="1697002793793" duration="4000" />
       <workItem from="1697002995806" duration="1872000" />
       <workItem from="1697035750678" duration="669000" />
-      <workItem from="1697175020830" duration="3228000" />
+      <workItem from="1697175020830" duration="3819000" />
     </task>
     <task id="LOCAL-00001" summary="_01 - 컴포넌트 띄우고 수정해보기">
       <option name="closed" value="true" />
@@ -112,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697004237780</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="_03 - useState와 onClick 이벤트 사용하기">
+      <option name="closed" value="true" />
+      <created>1697178413005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697178413005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="_01 - 컴포넌트 띄우고 수정해보기" />
     <MESSAGE value="_02 - 컴포넌트 나누고 적용하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="_02 - 컴포넌트 나누고 적용하기" />
+    <MESSAGE value="_03 - useState와 onClick 이벤트 사용하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="_03 - useState와 onClick 이벤트 사용하기" />
   </component>
 </project>
