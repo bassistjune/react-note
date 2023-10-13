@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ff0433c-709d-4354-8ff3-a6d5c111f965" name="Changes" comment="_03 - useState와 onClick 이벤트 사용하기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="5ff0433c-709d-4354-8ff3-a6d5c111f965" name="Changes" comment="_03 - useState와 onClick 이벤트 사용하기&#10;&#10;// 배포를 위한 gh-pages">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <workItem from="1697002793793" duration="4000" />
       <workItem from="1697002995806" duration="1872000" />
       <workItem from="1697035750678" duration="669000" />
-      <workItem from="1697175020830" duration="4955000" />
+      <workItem from="1697175020830" duration="5375000" />
     </task>
     <task id="LOCAL-00001" summary="_01 - 컴포넌트 띄우고 수정해보기">
       <option name="closed" value="true" />
@@ -155,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697179283380</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="_03 - useState와 onClick 이벤트 사용하기&#10;&#10;// 배포를 위한 gh-pages">
+      <option name="closed" value="true" />
+      <created>1697180031612</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697180031612</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +171,7 @@
     <MESSAGE value="_01 - 컴포넌트 띄우고 수정해보기" />
     <MESSAGE value="_02 - 컴포넌트 나누고 적용하기" />
     <MESSAGE value="_03 - useState와 onClick 이벤트 사용하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="_03 - useState와 onClick 이벤트 사용하기" />
+    <MESSAGE value="_03 - useState와 onClick 이벤트 사용하기&#10;&#10;// 배포를 위한 gh-pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="_03 - useState와 onClick 이벤트 사용하기&#10;&#10;// 배포를 위한 gh-pages" />
   </component>
 </project>
