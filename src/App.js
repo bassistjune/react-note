@@ -10,13 +10,15 @@ const testObject = {
 }
 function App() {
   return (
-    <div className="App">
-      <h1 className="appTitle">testPage</h1>
-      <p>이 문장은 '{testDesc}' 입니다.</p>
-      <a href={testObject.objUrl}>
-        {testObject.objTit}
-      </a>
-      <Hello></Hello>
+    <div className="ali-ct App">
+      <div className="pd-1v">
+        <h1 className="appTitle">testPage</h1>
+        <p className="mt-1v">이 문장은 '{testDesc}' 입니다.</p>
+        <a href={testObject.objUrl}>
+          {testObject.objTit}
+        </a>
+        <Hello></Hello>
+      </div>
     </div>
   );
 }
